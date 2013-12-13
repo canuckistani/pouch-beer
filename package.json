@@ -1,0 +1,12 @@
+{
+    "name": "pouch-test",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+      "express": "*",
+      "hogan-express": "*",
+      "underscore": "*",
+      "pouchdb": "*",
+      "mustache": "*"
+  }
+}
